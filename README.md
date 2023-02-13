@@ -3,7 +3,7 @@
 
 # 💫 About Me:
   
-🔭  Em busca de uma vaga como desenvolvedora Front-End<br>🌱 Atualmente estudando ReactJS<br> 🗣 Português, inglês e alemão <br> 🤝 Entre em contato: thaisbragabreder@gmail.com
+🔭  Em busca de uma vaga como desenvolvedora Front-End<br>🌱 Atualmente estudando ReactJS<br> 🗣 Português, inglês e alemão  
 </br></br>
  
 
