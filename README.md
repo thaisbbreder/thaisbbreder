@@ -1,12 +1,17 @@
- ![Capa GitHub](https://user-images.githubusercontent.com/99916975/218282925-09a4a175-3c63-4778-b476-ec14dacba292.png)
+ 
+![THAIS2](https://user-images.githubusercontent.com/99916975/221055550-b33d9d33-8b8d-4802-8f32-97d20e8eeb55.png)
 
 
 # 💫 About Me:
   
 🔭  Em busca de uma vaga como desenvolvedora Front-End
 <br>
-🌱 Atualmente estudando ReactJS
+🌱 Atualmente estudando ReactJS 
 <br>
+✍ Curso Desenvolvedor Fullstack - ProgBr (finalizado)
+</br> 
+💡 Participante de programa de mentoria individual para praticar lógica de programação e ReactJs
+</br> 
 🗣 Português, inglês e alemão  
 </br> 
  
