@@ -10,8 +10,6 @@
 <br>
 ✍ Curso Desenvolvedor Fullstack - ProgBr (finalizado)
 </br> 
-💡 Participante de programa de mentoria individual para praticar lógica de programação e ReactJs
-</br> 
 🗣 Português, inglês e alemão  
 </br> 
  
