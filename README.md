@@ -8,7 +8,7 @@
 <br>
 🌱 Atualmente estudando ReactJS 
 <br>
-✍ Curso Desenvolvedor Fullstack - ProgBr (finalizado)
+✍ Curso Desenvolvedor Fullstack - ProgBr  
 </br> 
 🗣 Português, inglês e alemão  
 </br> 
