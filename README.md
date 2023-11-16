@@ -1,26 +1,27 @@
- 
-![THAIS2](https://user-images.githubusercontent.com/99916975/221055550-b33d9d33-8b8d-4802-8f32-97d20e8eeb55.png)
-
-
-<!--# 💫 About Me:
-  
-🔭  Em busca de uma vaga como desenvolvedora Front-End
-<br>
-🌱 
-<br>
-✍ Curso Desenvolvedor Fullstack - ProgBr
-</br> 
-🗣 Português, inglês e alemão  
-</br> 
- -->
-# 💻 Tech Stack:
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)    
- </br> 
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisbbreder&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-</br> </br> 
-Fique a vontade para fazer observações ou me dar dicas! Adoraria saber onde posso melhorar.<br>
-  Se quiser, entre em contato em alguma das minhas redes sociais:</br> </br> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thaisbbreder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thaisbbreder)  
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center"> Welcome to my portifolio!</h1>
+ <br>
+ 
+##  If you don't know me, let me introduce myself
+ 
+👩🏻‍💻 I'm Thaís, a brazilian **back-end** developer at Zup IT focuses on building projects using **Java**<br>
+🌱 I’m currently learning **python** and **C#** <br>
+💬 Ask me about **Java** and **reactJS**<br>
+📫 How to reach me thaisbragabreder@gmail.com
+  <br><br>
+  
+##  Tech Stack:
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+ <br> 
+
+##  Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thaisbbreder) 
+ <br> <br>
+ 
+ ##  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisbbreder&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+ 
+ 
+ 
